@@ -1,0 +1,17 @@
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventTestClasses.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventTestClasses.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventClasses.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventDBClasses.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventPropsClasses.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\nunit.framework.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventClasses.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventDBClasses.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventPropsClasses.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\nunit.framework.xml
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.csprojAssemblyReference.cache
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.csproj.CoreCompileInputs.cache
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.csproj.CopyComplete
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.pdb

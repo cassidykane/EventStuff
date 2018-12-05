@@ -1,0 +1,13 @@
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.csprojAssemblyReference.cache
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.csproj.CoreCompileInputs.cache
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.csproj.CopyComplete
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.pdb

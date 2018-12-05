@@ -1,0 +1,6 @@
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkLibrary\ToolsCSharp\bin\Debug\ToolsCSharp.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkLibrary\ToolsCSharp\bin\Debug\ToolsCSharp.pdb
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkLibrary\ToolsCSharp\obj\Debug\ToolsCSharp.csprojAssemblyReference.cache
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkLibrary\ToolsCSharp\obj\Debug\ToolsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkLibrary\ToolsCSharp\obj\Debug\ToolsCSharp.dll
+C:\Users\sleeper\Desktop\FrameworkLibrary\FrameworkLibrary\ToolsCSharp\obj\Debug\ToolsCSharp.pdb
